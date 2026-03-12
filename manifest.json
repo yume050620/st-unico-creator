@@ -1,0 +1,9 @@
+{
+    "name": "Unico Creator",
+    "display_name": "🌸 专属捏人设定面板",
+    "description": "完美还原的粉色系角色设定生成器（带配角态度弹窗）",
+    "version": "1.0.0",
+    "author": "YourName",
+    "js": ["index.js"]
+}
+
